@@ -1,5 +1,4 @@
-
-# Expense Sharing API
+# Expense Sharing App (Backend)
 
 A FastAPI-based backend service for managing users and expenses, allowing users to split expenses and track balances.
 
